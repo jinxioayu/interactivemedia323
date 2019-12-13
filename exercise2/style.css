@@ -1,16 +1,17 @@
+.name{
+	color: darkblue;
+	font-family: Georgia;
+	text-align: center;
+	font-size: 70px;
+}
 body{
 	background:lightcyan;
 	margin-left: 500px;
 	margin-right: 500px
 }
-.name{
-	color: darkblue;
-	font-family: Georgia;
-	text-align: center;
-}
 #Finding the Correct Lights{
 	font-family: Georgia;
 }
 #one,#two{
-font-size: 40px
+font-size: 40px;
 }
