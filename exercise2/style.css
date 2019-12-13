@@ -2,7 +2,7 @@ body{
 	background:lightcyan;
 	text-align: center;
 }
-ul{
+list-style: {
 	text-align: center;
 }
 .name{
