@@ -16,7 +16,7 @@ div.header{
 	background-size: cover;
 	background-position: bottom center;
 	width: 100%
-	opacity: 0.50;
+	background-opacity: 0.50;
 }
 #putting{
 	font-family: Georgia;
