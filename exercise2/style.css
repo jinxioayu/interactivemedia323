@@ -5,7 +5,10 @@ body{
 	background:lightcyan;
 }
 .list1: {
-	text-align: right;
+	text-align:center;
+}
+.list2:{
+	text-align:center;
 }
 .name{
 	color: darkblue;
