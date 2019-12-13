@@ -37,4 +37,5 @@ div #image{
 	float:right;
 	width: 250px;
 	height: 200px;
+	vertical-align: center;
 }
