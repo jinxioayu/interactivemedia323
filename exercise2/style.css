@@ -3,12 +3,8 @@ title{
 }
 body{
 	background:lightcyan;
-}
-.list1: {
-	text-align:center;
-}
-.list2:{
-	text-align:center;
+	margin-left: 250px;
+	margin-right: 250px
 }
 .name{
 	color: darkblue;
@@ -16,13 +12,4 @@ body{
 }
 #Finding the Correct Lights{
 	font-family: Georgia;
-}
-p{
-	text-align: center;
-}
-h1{
-	text-align: center;
-}
-image{
-	text-align: center;
 }
