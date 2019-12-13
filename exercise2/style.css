@@ -36,7 +36,7 @@ body{
 	height: 200px;
 	width: 250px;
 }
-div{
+div #image{
 	float:right;
 	width: 100px;
 	height: 100px;
