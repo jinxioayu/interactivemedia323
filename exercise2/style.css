@@ -1,6 +1,5 @@
 body{
 	background:lightcyan;
-	text-align: center;
 }
 list-style: {
 	text-align: center;
@@ -11,4 +10,7 @@ list-style: {
 }
 #Finding the Correct Lights{
 	font-family: Georgia;
+}
+p{
+	text-align: center;
 }
