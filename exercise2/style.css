@@ -19,6 +19,7 @@ body{
 }
 .text{
 	font-family: Georgia;
+	letter-spacing:10px;
 }
 #number{
 	font-size: 40px;
