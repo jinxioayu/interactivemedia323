@@ -4,11 +4,14 @@
 	text-align: center;
 	font-size: 50px;
 }
+
 body{
 	margin-left: 300px;
 	margin-right: 300px;
 	margin-top: 150px;
 	margin-bottom: 200px; 
+}
+.header{
 	background-image: url("images/038674c577c66180000018c1b0e1e22.jpg");
 	background-size: cover;
 	background-position: bottom center;
