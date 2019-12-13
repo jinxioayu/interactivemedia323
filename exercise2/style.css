@@ -1,8 +1,8 @@
 body{
 	background:lightcyan;
+	text-align: center;
 }
 .name{
 	color: darkblue;
 	font-family: Georgia;
-	text-align: center;
 }
