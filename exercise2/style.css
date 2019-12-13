@@ -18,6 +18,12 @@ body{
 	opacity: 0.50;
 	line-height:1.5;
 }
+.list1{
+	line-height:2.5;
+	font-size: 20px;
+	font-family: Georgia;
+	color: grey;
+}
 .text{
 	font-family: Georgia;
 	letter-spacing:5px;
